@@ -669,3 +669,58 @@ subjects:
           doi:        10455/3167
           authors:
             - Francisco M. Couto
+
+  # 2º Ano / 2º Semestre
+
+  - title:    Desenvolvimento Centrado em Objetos
+    code:     TODO
+    group:    CEI
+    year:     1
+    semester: 2
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Applying UML and Patterns - An Introduction to Object-oriented Analysis and Design
+          type:       Textbook
+          edition:    3
+          year:       2005
+          publisher:  Prentice-Hall
+          isbn:       0-13-148906-2
+          authors:
+            - Craig Larman
+
+        # source: fénix
+        - title:      The JAVA Programming Language
+          type:       Textbook
+          edition:    4
+          year:       2005
+          publisher:  Addison-Wesley
+          isbn:       0-321-34980-6
+          authors:
+            - K. Arnold
+            - J. Gosling
+            - D. Holmes
+
+        # source: fénix
+        - title:      "Effective Java: Programming Language Guide"
+          type:       Textbook
+          edition:    2
+          year:       2008
+          publisher:  Addison-Wesley
+          #isbn:       TODO
+          authors:
+            - Joshua Bloch
+
+        # source: fénix
+        - title:      "Design Patterns: Elements of Reusable Object-Oriented Software"
+          type:       Textbook
+          #edition:    TODO
+          #year:       TODO
+          publisher:  Addison-Wesley
+          #isbn:       TODO
+          authors:
+            - E. Gamma
+            - R. Helm
+            - R. Johnson
+            - J. Vlissides
