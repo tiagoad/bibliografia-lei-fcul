@@ -464,3 +464,77 @@ subjects:
             - Trevor Misfeldt
             - Jim Shur
             - Patrick Thompson
+
+  # 2º Ano / 1º Semestre
+
+  - title:    Física Experimental
+    code:     TODO
+    group:    CEI
+    year:     2
+    semester: 1
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Física Experimental - Uma Introdução
+          type:       Textbook
+          edition:    TODO
+          year:       1994
+          publisher:  Editorial Presença
+          isbn:       TODO
+          authors:
+            - M. C. Abreu
+            - L. Matias
+            - L. F. Peralta
+
+        # source: fénix
+        - title:      Introdução aos Circuitos Eléctricos e Electrónicos
+          type:       Textbook
+          edition:    TODO
+          year:       1996
+          publisher:  Fundação Calouste Gulbenkian
+          isbn:       TODO
+          authors:
+            - Manuel de Medeiros Silva
+
+      secondary:
+        # source: fénix
+        - title:      Electronics, Circuits & Devices
+          type:       Textbook
+          edition:    3
+          year:       1987
+          publisher:  TODO
+          isbn:       TODO
+          authors:
+            - Ralph J. Smith
+
+        # source: fénix
+        - title:      Practical Physics
+          type:       Textbook
+          edition:    4
+          year:       2000
+          publisher:  Cambridge University Press
+          isbn:       TODO
+          authors:
+            - G. L. Soares
+
+        # source: fénix
+        - title:      Physics for Computer Science Students
+          type:       Textbook
+          edition:    2
+          year:       1991
+          publisher:  Springer Verlag
+          isbn:       TODO
+          authors:
+            - G. Narciso
+            - A. Damask
+
+        # source: fénix
+        - title:      Physics for Scientists and Engineers
+          type:       Textbook
+          edition:    TODO
+          year:       1993
+          publisher:  Prentice Hall
+          isbn:       TODO
+          authors:
+            - TODO
