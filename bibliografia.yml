@@ -30,3 +30,41 @@ subjects:
           authors:
             - Randal E. Bryant
             - David R. O'Hallaron
+
+  - title:    Cálculo
+    code:     TODO
+    group:    CMAT
+    year:     1
+    semester: 1
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      "Cálculo Diferencial e Integral"
+          type:       Textbook
+          edition:    TODO
+          year:       1978
+          publisher:  Lopes da Silva Editores
+          isbn:       TODO
+          authors:
+            - N. Piskounov
+
+        # source: fénix
+        - title:      Análise Matemática
+          type:       Textbook
+          edition:    TODO
+          year:       1999
+          publisher:  Gradiva
+          isbn:       TODO
+          authors:
+            - C. Sarrico
+
+        # source: fénix
+        - title:      Cálculo
+          type:       Textbook
+          edition:    TODO
+          year:       2006
+          publisher:  Thomson
+          isbn:       TODO
+          authors:
+            - J. Stewart
