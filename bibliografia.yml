@@ -567,3 +567,34 @@ subjects:
           isbn:       9780132729154
           authors:
             - Hamdy A. Taha
+
+  - title:    Princípios de Programação
+    code:     TODO
+    group:    CEI
+    year:     2
+    semester: 1
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Learn You a Haskell for Great Good
+          type:       Textbook
+          edition:    TODO
+          year:       2001
+          publisher:  No Starch Press
+          isbn:       TODO
+          authors:
+            - Miran Lipovaca
+
+      secondary:
+        # source: fénix
+        - title:      Real World Haskell
+          type:       Textbook
+          edition:    TODO
+          year:       2008
+          publisher:  O'Reilly Media
+          isbn:       TODO
+          authors:
+            - Bryan O'Sullivan
+            - Don Stewart
+            - John Goerzen
