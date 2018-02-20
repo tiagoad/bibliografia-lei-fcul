@@ -32,7 +32,7 @@ subjects:
             - David R. O'Hallaron
 
   - title:    Cálculo
-    code:     TODO
+    #code:     TODO
     group:    CMAT
     year:     1
     semester: 1
@@ -42,35 +42,35 @@ subjects:
         # source: fénix
         - title:      "Cálculo Diferencial e Integral"
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       1978
           publisher:  Lopes da Silva Editores
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - N. Piskounov
 
         # source: fénix
         - title:      Análise Matemática
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       1999
           publisher:  Gradiva
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - C. Sarrico
 
         # source: fénix
         - title:      Cálculo
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2006
           publisher:  Thomson
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - J. Stewart
 
   - title:    Introdução à Programação
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     1
     semester: 1
@@ -82,14 +82,14 @@ subjects:
           type:       Textbook
           edition:    7
           year:       2011
-          publisher:  TODO
-          isbn:       TODO
+          #publisher:  TODO
+          #isbn:       TODO
           authors:
             - J. Lewis
             - W. Loftus
 
   - title:    Lógica de Primeira Ordem
-    code:     TODO
+    #code:     TODO
     group:    CMAT
     year:     1
     semester: 1
@@ -99,16 +99,16 @@ subjects:
         # source: fénix
         - title:      Language, Proof and Logic
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       TODO
           publisher:  Seven Bridges Press
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - Jon Barwise
             - John Etchemendy
 
   - title:    Produção de Documentos Técnicos
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     1
     semester: 1
@@ -127,7 +127,7 @@ subjects:
   # 1º Ano / 2º Semestre
 
   - title:    Algoritmos e Estruturas de Dados
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     1
     semester: 2
@@ -139,7 +139,7 @@ subjects:
           type:       Textbook
           edition:    2
           year:       2011
-          publisher:  TODO
+          #publisher:  TODO
           isbn:       9780470128701
           authors:
             - E. Koffman
@@ -158,7 +158,7 @@ subjects:
         # source: fénix
         - title:      Data Structures and Algorithms in Java
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2010
           publisher:  John Wiley & Sons
           isbn:       9780470934395
@@ -169,7 +169,7 @@ subjects:
         # source: fénix
         - title:      The Elements of Java Style
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2000
           publisher:  Cambridge University Press
           isbn:       9780521777681
@@ -179,7 +179,7 @@ subjects:
         # source: fénix
         - title:      Effective Java
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2008
           publisher:  Addison-Wesley
           isbn:       0321356683
@@ -187,7 +187,7 @@ subjects:
             - J. Bloch
 
   - title:    Elementos de Álgebra Linear
-    code:     TODO
+    #code:     TODO
     group:    CMAT
     year:     1
     semester: 2
@@ -197,10 +197,10 @@ subjects:
         # source: fénix
         - title:      Elementary Linear Algebra - Applications Version
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2000
           publisher:  John Wiley and Sons
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - H. Anton
             - C. Rorres
@@ -208,10 +208,10 @@ subjects:
         # source: fénix
         - title:      Álgebra Linear
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       TODO
           publisher:  Escolar Editora
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - I. Cabral
             - C. Saiago
@@ -229,10 +229,10 @@ subjects:
         # source: fénix
         - title:      Álgebra Linear e Geometria Analítica
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       1995
           publisher:  McGraw-Hill de Portugal
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - E. Giraldes
             - V. H. Fernandes
@@ -241,35 +241,35 @@ subjects:
         # source: fénix
         - title:      Álgebra Linear como Introdução à Matemática Aplicada
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2004
           publisher:  Texto Editora
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - L. T. Magalhães
 
         # source: fénix
         - title:      Álgebra Linear e Geometria Analítica
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2001
           publisher:  McGraw-Hill de Portugal
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - A. Monteiro
 
         # source: fénix
         - title:      Introduction to Linear Algebra
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       1998
           publisher:  Wellesley-Cambridge Press
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - G. Strang
 
   - title:    Física A
-    code:     TODO
+    #code:     TODO
     group:    CFIS
     year:     1
     semester: 2
@@ -300,17 +300,17 @@ subjects:
         # source: fénix
         - title:      Physics for Scientists and Engineers
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       1993
           publisher:  Prentice Hall
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - Fishbane
             - Gasiorowicz
             - Thornton
 
   - title:    Introdução às Probabilidades e Estatística
-    code:     TODO
+    #code:     TODO
     group:    CMAT
     year:     1
     semester: 2
@@ -323,7 +323,7 @@ subjects:
           edition:    7
           year:       2005
           publisher:  Prentice-Hall
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - Hogg, R.
             - Tanis, E.
@@ -334,7 +334,7 @@ subjects:
           edition:    2
           year:       1999
           publisher:  Wiley
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - D. C. Montgomery
             - G. C. Runger
@@ -345,7 +345,7 @@ subjects:
           edition:    3
           year:       1974
           publisher:  McGraw-Hill
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - A. M. Mood
             - F. A. Graybill
@@ -370,7 +370,7 @@ subjects:
           edition:    7
           year:       2009
           publisher:  Edições Sílabo
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - E. Reis
 
@@ -380,7 +380,7 @@ subjects:
           edition:    8
           year:       2008
           publisher:  Prentice-Hall
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - S. Ross
 
@@ -390,12 +390,12 @@ subjects:
           edition:    3
           year:       2004
           publisher:  Wiley
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - S. M. Ross
 
   - title:    Laboratórios de Programação
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     1
     semester: 2
@@ -468,7 +468,7 @@ subjects:
   # 2º Ano / 1º Semestre
 
   - title:    Física Experimental
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     2
     semester: 1
@@ -478,10 +478,10 @@ subjects:
         # source: fénix
         - title:      Física Experimental - Uma Introdução
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       1994
           publisher:  Editorial Presença
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - M. C. Abreu
             - L. Matias
@@ -490,10 +490,10 @@ subjects:
         # source: fénix
         - title:      Introdução aos Circuitos Eléctricos e Electrónicos
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       1996
           publisher:  Fundação Calouste Gulbenkian
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - Manuel de Medeiros Silva
 
@@ -503,8 +503,8 @@ subjects:
           type:       Textbook
           edition:    3
           year:       1987
-          publisher:  TODO
-          isbn:       TODO
+          #publisher:  TODO
+          #isbn:       TODO
           authors:
             - Ralph J. Smith
 
@@ -514,7 +514,7 @@ subjects:
           edition:    4
           year:       2000
           publisher:  Cambridge University Press
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - G. L. Soares
 
@@ -524,7 +524,7 @@ subjects:
           edition:    2
           year:       1991
           publisher:  Springer Verlag
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - G. Narciso
             - A. Damask
@@ -532,15 +532,15 @@ subjects:
         # source: fénix
         - title:      Physics for Scientists and Engineers
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       1993
           publisher:  Prentice Hall
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - TODO
 
   - title:    Introdução à Investigação Operacional
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     2
     semester: 1
@@ -553,7 +553,7 @@ subjects:
           edition:    8
           year:       2005
           publisher:  McGraw-Hill
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - F. S. Hillier
             - G. J. Liberman
@@ -569,7 +569,7 @@ subjects:
             - Hamdy A. Taha
 
   - title:    Princípios de Programação
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     2
     semester: 1
@@ -579,10 +579,10 @@ subjects:
         # source: fénix
         - title:      Learn You a Haskell for Great Good
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2001
           publisher:  No Starch Press
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - Miran Lipovaca
 
@@ -590,17 +590,17 @@ subjects:
         # source: fénix
         - title:      Real World Haskell
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2008
           publisher:  O'Reilly Media
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - Bryan O'Sullivan
             - Don Stewart
             - John Goerzen
 
   - title:    Redes de Computadores
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     2
     semester: 1
@@ -613,7 +613,7 @@ subjects:
           edition:    6
           year:       2013
           publisher:  Pearson Publishing
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - James F. Kurose
             - Keith W. Ross
@@ -631,7 +631,7 @@ subjects:
             - Bruce Davie
 
   - title:    Sistemas de Informação e Bases de Dados
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     2
     semester: 1
@@ -673,7 +673,7 @@ subjects:
   # 2º Ano / 2º Semestre
 
   - title:    Desenvolvimento Centrado em Objetos
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     1
     semester: 2
@@ -708,17 +708,17 @@ subjects:
           edition:    2
           year:       2008
           publisher:  Addison-Wesley
-          #isbn:       TODO
+          ##isbn:       TODO
           authors:
             - Joshua Bloch
 
         # source: fénix
         - title:      "Design Patterns: Elements of Reusable Object-Oriented Software"
           type:       Textbook
-          #edition:    TODO
+          ##edition:    TODO
           #year:       TODO
           publisher:  Addison-Wesley
-          #isbn:       TODO
+          ##isbn:       TODO
           authors:
             - E. Gamma
             - R. Helm
@@ -726,7 +726,7 @@ subjects:
             - J. Vlissides
 
   - title:    Interfaces Pessoa-Máquina
-    code:     TODO
+    #code:     TODO
     group:    CEI
     year:     1
     semester: 2
@@ -746,7 +746,7 @@ subjects:
         # source: fénix
         - title:      Introdução ao Design de Interfaces
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2012
           publisher:  FCA
           isbn:       9789727227389
@@ -759,7 +759,7 @@ subjects:
         # source: fénix
         - title:      Human Computer Interaction
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       1994
           publisher:  Addison Wesley
           isbn:       0-201-62769-8
@@ -772,14 +772,14 @@ subjects:
           edition:    3
           year:       1998
           publisher:  Prentice Hall
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - Ben Shneiderman
 
         # source: fénix
         - title:      Usability Engineering
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       1994
           publisher:  Academic Press
           isbn:       0125184069
@@ -789,7 +789,7 @@ subjects:
         # source: fénix
         - title:      Designing Web Usability
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2000
           publisher:  New Riders
           isbn:       156205810X
@@ -799,15 +799,15 @@ subjects:
         # source: fénix
         - title:      The Design of Everyday Things
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2002
           publisher:  Basic Books
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - Don Norman
 
   - title:    Matemática Discreta
-    code:     TODO
+    #code:     TODO
     group:    CMAT
     year:     1
     semester: 2
@@ -817,10 +817,10 @@ subjects:
         # source: fénix
         - title:      Discrete Mathematics, elementary and beyond
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2003
           publisher:  Springer
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - L. Lovász
             - J. Pelikan
@@ -833,17 +833,17 @@ subjects:
           edition:    Revised Edition
           year:       1989
           publisher:  Claredon Press
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - N. L. Biggs
 
         # source: fénix
         - title:      Matemática Discreta - Combinatória, Grafos, Algoritmos
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2008
           publisher:  Escolar Editora
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - D.M. Cardoso
             - J. Szymaáanski
@@ -852,10 +852,10 @@ subjects:
         # source: fénix
         - title:      Mathematics for Computer Science
           type:       Textbook
-          edition:    TODO
+          #edition:    TODO
           year:       2013
-          publisher:  TODO
-          isbn:       TODO
+          #publisher:  TODO
+          #isbn:       TODO
           authors:
             - Eric Lehman
             - F Thomson Leighton
@@ -867,6 +867,6 @@ subjects:
           edition:    7
           year:       2012
           publisher:  McGraw-Hill
-          isbn:       TODO
+          #isbn:       TODO
           authors:
             - K. H. Rosen
