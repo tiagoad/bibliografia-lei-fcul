@@ -724,3 +724,84 @@ subjects:
             - R. Helm
             - R. Johnson
             - J. Vlissides
+
+  - title:    Interfaces Pessoa-Máquina
+    code:     TODO
+    group:    CEI
+    year:     1
+    semester: 2
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Human Computer Interaction
+          type:       Textbook
+          edition:    3
+          year:       2003
+          publisher:  Prentice Hall
+          isbn:       0130461091
+          authors:
+            - Alan Dix
+
+        # source: fénix
+        - title:      Introdução ao Design de Interfaces
+          type:       Textbook
+          edition:    TODO
+          year:       2012
+          publisher:  FCA
+          isbn:       9789727227389
+          authors:
+            - Manuel J. Fonseca
+            - Pedro Campos
+            - Daniel Gonçalves
+
+      secondary:
+        # source: fénix
+        - title:      Human Computer Interaction
+          type:       Textbook
+          edition:    TODO
+          year:       1994
+          publisher:  Addison Wesley
+          isbn:       0-201-62769-8
+          authors:
+            - Jenny Preece
+
+        # source: fénix
+        - title:      Designing the User Interface
+          type:       Textbook
+          edition:    3
+          year:       1998
+          publisher:  Prentice Hall
+          isbn:       TODO
+          authors:
+            - Ben Shneiderman
+
+        # source: fénix
+        - title:      Usability Engineering
+          type:       Textbook
+          edition:    TODO
+          year:       1994
+          publisher:  Academic Press
+          isbn:       0125184069
+          authors:
+            - Jakob Nielsen
+
+        # source: fénix
+        - title:      Designing Web Usability
+          type:       Textbook
+          edition:    TODO
+          year:       2000
+          publisher:  New Riders
+          isbn:       156205810X
+          authors:
+            - Jakob Nielsen
+
+        # source: fénix
+        - title:      The Design of Everyday Things
+          type:       Textbook
+          edition:    TODO
+          year:       2002
+          publisher:  Basic Books
+          isbn:       TODO
+          authors:
+            - Don Norman
