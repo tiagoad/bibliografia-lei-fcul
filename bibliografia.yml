@@ -308,3 +308,88 @@ subjects:
             - Fishbane
             - Gasiorowicz
             - Thornton
+
+  - title:    Introdução às Probabilidades e Estatística
+    code:     TODO
+    group:    CMAT
+    year:     1
+    semester: 2
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Probability and Statistical Inference
+          type:       Textbook
+          edition:    7
+          year:       2005
+          publisher:  Prentice-Hall
+          isbn:       TODO
+          authors:
+            - Hogg, R.
+            - Tanis, E.
+
+        # source: fénix
+        - title:      Applied Statistics and Probability for Engineers
+          type:       Textbook
+          edition:    2
+          year:       1999
+          publisher:  Wiley
+          isbn:       TODO
+          authors:
+            - D. C. Montgomery
+            - G. C. Runger
+
+        # source: fénix
+        - title:      Introduction to the Theory of Statistics
+          type:       Textbook
+          edition:    3
+          year:       1974
+          publisher:  McGraw-Hill
+          isbn:       TODO
+          authors:
+            - A. M. Mood
+            - F. A. Graybill
+            - D. Boes
+
+        # source: fénix
+        - title:      Introdução à Estatística
+          type:       Textbook
+          edition:    2
+          year:       2008
+          publisher:  McGraw-Hill de Portugal
+          isbn:       9789725924686
+          authors:
+            - B. Murteira
+            - C.S. Ribeiro
+            - J.A. Silva
+            - C. Pimenta
+
+        # source: fénix
+        - title:      Estatística Descritiva
+          type:       Textbook
+          edition:    7
+          year:       2009
+          publisher:  Edições Sílabo
+          isbn:       TODO
+          authors:
+            - E. Reis
+
+        # source: fénix
+        - title:      A First Course in Probability
+          type:       Textbook
+          edition:    8
+          year:       2008
+          publisher:  Prentice-Hall
+          isbn:       TODO
+          authors:
+            - S. Ross
+
+        # source: fénix
+        - title:      Introduction to Probability and Statistics for Engineers and Scientists
+          type:       Textbook
+          edition:    3
+          year:       2004
+          publisher:  Wiley
+          isbn:       TODO
+          authors:
+            - S. M. Ross
