@@ -16,6 +16,7 @@ forma a ser possível:
 - [ ] Requerer a compra dos livros que faltam à faculdade
 - [ ] Gerar HTML para consulta desta informação
 
+
 # Como funciona
 
 Os dados estão a ser compilados no ficheiro `bibliografia.yml`
@@ -33,3 +34,8 @@ não existam.
 Para participar basta fazer fork deste repositório, adicionar dados e
 [enviar uma pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 com a nova informação.
+
+# Links Úteis
+
+- [Plano de Estudos](https://fenix.ciencias.ulisboa.pt/degrees/engenharia-informatica-564500436615278/curriculo)
+- [Procura (moodle)](https://moodle.ciencias.ulisboa.pt/course/search.php)
