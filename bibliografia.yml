@@ -87,3 +87,22 @@ subjects:
           authors:
             - J. Lewis
             - W. Loftus
+
+  - title:    Lógica de Primeira Ordem
+    code:     TODO
+    group:    CMAT
+    year:     1
+    semester: 1
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Language, Proof and Logic
+          type:       Textbook
+          edition:    TODO
+          year:       TODO
+          publisher:  Seven Bridges Press
+          isbn:       TODO
+          authors:
+            - Jon Barwise
+            - John Etchemendy
