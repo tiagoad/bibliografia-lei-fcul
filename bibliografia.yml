@@ -123,3 +123,65 @@ subjects:
           isbn:       9789725920916
           authors:
             - Pedro Quaresma de Almeida
+
+  # 1º Ano / 2º Semestre
+
+  - title:    Algoritmos e Estruturas de Dados
+    code:     TODO
+    group:    CEI
+    year:     1
+    semester: 2
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      "Data Structures: Abstraction and Design Using Java"
+          type:       Textbook
+          edition:    2
+          year:       2011
+          publisher:  TODO
+          isbn:       9780470128701
+          authors:
+            - E. Koffman
+            - P. Wolfgang
+
+        # source: fénix
+        - title:      Specifying and Monitoring Java Classes with ConGu 2.0
+          type:       Lecture Notes
+          year:       2014
+          authors:
+            - V. Vasconcelos
+            - A. Lopes
+            - I. Nunes
+
+      secondary:
+        # source: fénix
+        - title:      Data Structures and Algorithms in Java
+          type:       Textbook
+          edition:    TODO
+          year:       2010
+          publisher:  John Wiley & Sons
+          isbn:       9780470934395
+          authors:
+            - M. T. Goodrich
+            - R. Tamassia
+
+        # source: fénix
+        - title:      The Elements of Java Style
+          type:       Textbook
+          edition:    TODO
+          year:       2000
+          publisher:  Cambridge University Press
+          isbn:       9780521777681
+          authors:
+            - A. Vermeulen
+
+        # source: fénix
+        - title:      Effective Java
+          type:       Textbook
+          edition:    TODO
+          year:       2008
+          publisher:  Addison-Wesley
+          isbn:       0321356683
+          authors:
+            - J. Bloch
