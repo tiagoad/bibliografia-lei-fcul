@@ -629,3 +629,43 @@ subjects:
           authors:
             - Larry Peterson
             - Bruce Davie
+
+  - title:    Sistemas de Informação e Bases de Dados
+    code:     TODO
+    group:    CEI
+    year:     2
+    semester: 1
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Database Management Systems
+          type:       Textbook
+          edition:    3
+          year:       2003
+          publisher:  McGraw-Hill
+          isbn:       0072465638
+          authors:
+            - Raghu Ramakrishnan
+            - Johannes Gehrke
+
+        # source: fénix
+        - title:      Oracle PL/SQL Programming
+          type:       Textbook
+          edition:    6
+          year:       2014
+          publisher:  O'Reilly
+          isbn:       1449324452
+          authors:
+            - Steven Feuerstein
+            - Bill Pribyl
+
+      secondary:
+        # source: fénix
+        - title:      Desenvolvimento de Sistemas de Informação baseados em PHP e MySQL
+          type:       Paper
+          year:       2009
+          publisher:  DI-FCUL Learning Object
+          doi:        10455/3167
+          authors:
+            - Francisco M. Couto
