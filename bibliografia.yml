@@ -267,3 +267,44 @@ subjects:
           isbn:       TODO
           authors:
             - G. Strang
+
+  - title:    Física A
+    code:     TODO
+    group:    CFIS
+    year:     1
+    semester: 2
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Physics for Scientists and Engineers with Modern Physics
+          type:       Textbook
+          edition:    9
+          year:       2013
+          publisher:  Brooks/Coles
+          isbn:       978-1133954057
+          authors:
+            - Raymond A. Serway
+            - John W. Jewett, Jr
+
+        # source: fénix
+        - title:      Physics for Computer Science Students
+          type:       Textbook
+          edition:    2
+          year:       1991
+          publisher:  Springer Verlag
+          authors:
+            - Narciso G.
+            - A. Damask
+
+        # source: fénix
+        - title:      Physics for Scientists and Engineers
+          type:       Textbook
+          edition:    TODO
+          year:       1993
+          publisher:  Prentice Hall
+          isbn:       TODO
+          authors:
+            - Fishbane
+            - Gasiorowicz
+            - Thornton
