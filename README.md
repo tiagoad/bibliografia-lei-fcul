@@ -13,7 +13,7 @@ forma a ser possível:
 
 - [ ] "Encontrar" de forma automatizada as suas versões digitais
 - [ ] Procurar cópias dos livros nas bibliotecas da UL
-- [ ] Requerer a compra dos livros que faltam à faculdade
+- [ ] Requerer a compra dos livros que faltam à faculdade
 - [ ] Gerar HTML para consulta desta informação
 
 # Como funciona
