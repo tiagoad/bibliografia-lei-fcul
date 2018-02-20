@@ -393,3 +393,74 @@ subjects:
           isbn:       TODO
           authors:
             - S. M. Ross
+
+  - title:    Laboratórios de Programação
+    code:     TODO
+    group:    CEI
+    year:     1
+    semester: 2
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      "Java: Software Solutions, Foundations of Program Design"
+          type:       Textbook
+          edition:    4
+          year:       2004
+          publisher:  Addison-Wesley
+          isbn:       0-321-26979-9
+          authors:
+            - John Lewis
+            - William Loftus
+
+        # source: fénix
+        - title:      Uma Questão de Estilo, Elementos de Estilo Java
+          type:       Textbook
+          year:       2004
+          authors:
+            - Vasco Vasconcelos
+
+        # source: fénix
+        - title:      Programação por Contrato na Disciplina de Introdução à Programação
+          type:       Textbook
+          year:       2004
+          authors:
+            - Isabel Nunes
+
+        # source: fénix
+        - title:      "Java: Introduction to Problem Solving and Programming"
+          type:       Textbook
+          edition:    5
+          year:       2008
+          publisher:  Pearson
+          isbn:       9780136130888
+          authors:
+            - Walter Savitch
+            - Frank M. Carrano
+
+        # source: fénix
+        - title:      Objects, Abstraction, Data Structures and Design Using Java
+          type:       Textbook
+          edition:    5.0
+          year:       2005
+          publisher:  Wiley & Sons
+          isbn:       9780471467557
+          authors:
+            - Elliot Koffman
+            - Paul Wolfgang
+
+        # source: fénix
+        - title:      The Elements of Java Style
+          type:       Textbook
+          edition:    1
+          year:       2000
+          publisher:  Cambridge University Press
+          isbn:       0521777682
+          authors:
+            - Patrick Thompson
+            - Scott W. Ambler
+            - Greg Bumgardner
+            - Eldon Metz
+            - Trevor Misfeldt
+            - Jim Shur
+            - Patrick Thompson
