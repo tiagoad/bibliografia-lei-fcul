@@ -1,1 +1,32 @@
-subjects: []
+subjects:
+
+  # 1º Ano / 1º Semestre
+
+  - title:    Arquiteturas de Sistemas Computacionais
+    code:     26748
+    group:    CEI
+    year:     1
+    semester: 1
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Computer Architecture
+          type:       Textbook
+          year:       2011
+          publisher:  Pearson Custom Publishing
+          isbn:       9781782634221
+          authors:
+            - José Rufino
+            - Mário Calha
+
+        # source: fénix
+        - title:      "Computer Systems: A Programmer's Perspective"
+          type:       Textbook
+          edition:    2
+          year:       2011
+          publisher:  Pearson
+          isbn:       978013610804
+          authors:
+            - Randal E. Bryant
+            - David R. O'Hallaron
