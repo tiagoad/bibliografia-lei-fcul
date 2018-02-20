@@ -3,6 +3,7 @@ subjects:
   # 1º Ano / 1º Semestre
 
   - title:    Arquiteturas de Sistemas Computacionais
+    initials: ASC
     code:     26748
     group:    CEI
     year:     1
@@ -32,6 +33,7 @@ subjects:
             - David R. O'Hallaron
 
   - title:    Cálculo
+    initials: Calc
     #code:     TODO
     group:    CMAT
     year:     1
@@ -70,6 +72,7 @@ subjects:
             - J. Stewart
 
   - title:    Introdução à Programação
+    initials: IPro
     #code:     TODO
     group:    CEI
     year:     1
@@ -89,6 +92,7 @@ subjects:
             - W. Loftus
 
   - title:    Lógica de Primeira Ordem
+    initials: LPOrd
     #code:     TODO
     group:    CMAT
     year:     1
@@ -108,6 +112,7 @@ subjects:
             - John Etchemendy
 
   - title:    Produção de Documentos Técnicos
+    initials: PDT
     #code:     TODO
     group:    CEI
     year:     1
@@ -127,6 +132,7 @@ subjects:
   # 1º Ano / 2º Semestre
 
   - title:    Algoritmos e Estruturas de Dados
+    initials: AEDado
     #code:     TODO
     group:    CEI
     year:     1
@@ -187,6 +193,7 @@ subjects:
             - J. Bloch
 
   - title:    Elementos de Álgebra Linear
+    initials: EAL
     #code:     TODO
     group:    CMAT
     year:     1
@@ -269,6 +276,7 @@ subjects:
             - G. Strang
 
   - title:    Física A
+    initials: Fisic
     #code:     TODO
     group:    CFIS
     year:     1
@@ -310,6 +318,7 @@ subjects:
             - Thornton
 
   - title:    Introdução às Probabilidades e Estatística
+    initials: IPE
     #code:     TODO
     group:    CMAT
     year:     1
@@ -395,6 +404,7 @@ subjects:
             - S. M. Ross
 
   - title:    Laboratórios de Programação
+    initials: LProg
     #code:     TODO
     group:    CEI
     year:     1
@@ -468,6 +478,7 @@ subjects:
   # 2º Ano / 1º Semestre
 
   - title:    Física Experimental
+    initials: FExp
     #code:     TODO
     group:    CEI
     year:     2
@@ -540,6 +551,7 @@ subjects:
             - TODO
 
   - title:    Introdução à Investigação Operacional
+    initials: IIOper
     #code:     TODO
     group:    CEI
     year:     2
@@ -569,6 +581,7 @@ subjects:
             - Hamdy A. Taha
 
   - title:    Princípios de Programação
+    initials: PPro
     #code:     TODO
     group:    CEI
     year:     2
@@ -600,6 +613,7 @@ subjects:
             - John Goerzen
 
   - title:    Redes de Computadores
+    initials: RComp
     #code:     TODO
     group:    CEI
     year:     2
@@ -631,6 +645,7 @@ subjects:
             - Bruce Davie
 
   - title:    Sistemas de Informação e Bases de Dados
+    initials: SIBDad
     #code:     TODO
     group:    CEI
     year:     2
@@ -673,6 +688,7 @@ subjects:
   # 2º Ano / 2º Semestre
 
   - title:    Desenvolvimento Centrado em Objetos
+    initials: DCObj
     #code:     TODO
     group:    CEI
     year:     1
@@ -726,6 +742,7 @@ subjects:
             - J. Vlissides
 
   - title:    Interfaces Pessoa-Máquina
+    initials: IP-Mma
     #code:     TODO
     group:    CEI
     year:     1
@@ -807,6 +824,7 @@ subjects:
             - Don Norman
 
   - title:    Matemática Discreta
+    initials: MDisc
     #code:     TODO
     group:    CMAT
     year:     1
