@@ -185,3 +185,85 @@ subjects:
           isbn:       0321356683
           authors:
             - J. Bloch
+
+  - title:    Elementos de Álgebra Linear
+    code:     TODO
+    group:    CMAT
+    year:     1
+    semester: 2
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Elementary Linear Algebra - Applications Version
+          type:       Textbook
+          edition:    TODO
+          year:       2000
+          publisher:  John Wiley and Sons
+          isbn:       TODO
+          authors:
+            - H. Anton
+            - C. Rorres
+
+        # source: fénix
+        - title:      Álgebra Linear
+          type:       Textbook
+          edition:    TODO
+          year:       TODO
+          publisher:  Escolar Editora
+          isbn:       TODO
+          authors:
+            - I. Cabral
+            - C. Saiago
+            - C. Perdigão
+
+        # source: fénix
+        - title:      Álgebra Linear e Geometria Analítica
+          type:       Sebenta
+          year:       2008
+          publisher:  FCT-UNL
+          authors:
+            - R. Fernandes
+            - F. Rodrigues
+
+        # source: fénix
+        - title:      Álgebra Linear e Geometria Analítica
+          type:       Textbook
+          edition:    TODO
+          year:       1995
+          publisher:  McGraw-Hill de Portugal
+          isbn:       TODO
+          authors:
+            - E. Giraldes
+            - V. H. Fernandes
+            - P. Marques Smith
+
+        # source: fénix
+        - title:      Álgebra Linear como Introdução à Matemática Aplicada
+          type:       Textbook
+          edition:    TODO
+          year:       2004
+          publisher:  Texto Editora
+          isbn:       TODO
+          authors:
+            - L. T. Magalhães
+
+        # source: fénix
+        - title:      Álgebra Linear e Geometria Analítica
+          type:       Textbook
+          edition:    TODO
+          year:       2001
+          publisher:  McGraw-Hill de Portugal
+          isbn:       TODO
+          authors:
+            - A. Monteiro
+
+        # source: fénix
+        - title:      Introduction to Linear Algebra
+          type:       Textbook
+          edition:    TODO
+          year:       1998
+          publisher:  Wellesley-Cambridge Press
+          isbn:       TODO
+          authors:
+            - G. Strang
