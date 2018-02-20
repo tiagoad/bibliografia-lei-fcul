@@ -805,3 +805,68 @@ subjects:
           isbn:       TODO
           authors:
             - Don Norman
+
+  - title:    Matemática Discreta
+    code:     TODO
+    group:    CMAT
+    year:     1
+    semester: 2
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Discrete Mathematics, elementary and beyond
+          type:       Textbook
+          edition:    TODO
+          year:       2003
+          publisher:  Springer
+          isbn:       TODO
+          authors:
+            - L. Lovász
+            - J. Pelikan
+            - K. Vesztergombi
+
+      secondary:
+        # source: fénix
+        - title:      Discrete Mathematics
+          type:       Textbook
+          edition:    Revised Edition
+          year:       1989
+          publisher:  Claredon Press
+          isbn:       TODO
+          authors:
+            - N. L. Biggs
+
+        # source: fénix
+        - title:      Matemática Discreta - Combinatória, Grafos, Algoritmos
+          type:       Textbook
+          edition:    TODO
+          year:       2008
+          publisher:  Escolar Editora
+          isbn:       TODO
+          authors:
+            - D.M. Cardoso
+            - J. Szymaáanski
+            - M. Rostami
+
+        # source: fénix
+        - title:      Mathematics for Computer Science
+          type:       Textbook
+          edition:    TODO
+          year:       2013
+          publisher:  TODO
+          isbn:       TODO
+          authors:
+            - Eric Lehman
+            - F Thomson Leighton
+            - Albert R Meyer
+
+        # source: fénix
+        - title:      Discrete Mathematics And Its Applications
+          type:       Textbook
+          edition:    7
+          year:       2012
+          publisher:  McGraw-Hill
+          isbn:       TODO
+          authors:
+            - K. H. Rosen
