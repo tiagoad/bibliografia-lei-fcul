@@ -598,3 +598,34 @@ subjects:
             - Bryan O'Sullivan
             - Don Stewart
             - John Goerzen
+
+  - title:    Redes de Computadores
+    code:     TODO
+    group:    CEI
+    year:     2
+    semester: 1
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      Computer Networking - A Top-Down Approach Featuring the Internet
+          type:       Textbook
+          edition:    6
+          year:       2013
+          publisher:  Pearson Publishing
+          isbn:       TODO
+          authors:
+            - James F. Kurose
+            - Keith W. Ross
+
+      secondary:
+        # source: fénix
+        - title:      "Computer Networks: A Systems Approach"
+          type:       Textbook
+          edition:    5
+          year:       2011
+          publisher:  Elsevier
+          isbn:       9780123850591
+          authors:
+            - Larry Peterson
+            - Bruce Davie
