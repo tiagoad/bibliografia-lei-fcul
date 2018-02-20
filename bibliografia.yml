@@ -68,3 +68,22 @@ subjects:
           isbn:       TODO
           authors:
             - J. Stewart
+
+  - title:    Introdução à Programação
+    code:     TODO
+    group:    CEI
+    year:     1
+    semester: 1
+    credits:  6
+    bibliography:
+      primary:
+        # source: fénix
+        - title:      "Java Software Solutions: Foundations of Program Design"
+          type:       Textbook
+          edition:    7
+          year:       2011
+          publisher:  TODO
+          isbn:       TODO
+          authors:
+            - J. Lewis
+            - W. Loftus
