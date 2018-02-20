@@ -19,7 +19,7 @@ forma a ser possível:
 
 # Como funciona
 
-Os dados estão a ser compilados no ficheiro `bibliografia.yml`
+Os dados estão a ser compilados no ficheiro [bibliografia.yml](/bibliografia.yml)
 
 Inicialmente estes dados foram retirados das páginas das cadeiras no fénix.
 
